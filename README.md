@@ -1,3 +1,1 @@
-# hello-world
-new start
-hello everyone!
+Hello, world!
